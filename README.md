@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 [![pius GitHub stats](https://github-readme-stats.vercel.app/api?username=pius11&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a Software Engineering Technology student at Bali State Polytechnic, focusing on backend development. Mastering the programming languages Java, PHP, and Python with frameworks like Spring Boot, Laravel, and Django, I enjoy building structured, efficient, and easily developed systems. Although primarily focused on the backend, I also have fundamental frontend experience to support the development of comprehensive applications.<br>
+Beyond technical expertise, I am able to adapt quickly to new tools and work collaboratively within a team. My guiding principle is: "A good backend should be simple, scalable, and easy to maintain." I am intrigued by the challenges of software development and always eager to learn new things in the world of programming.
 
 
 ## 🌐 Socials Media:
