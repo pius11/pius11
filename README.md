@@ -45,6 +45,9 @@ Beyond technical expertise, I am able to adapt quickly to new tools and work col
 ---
 [![](https://visitcount.itsvg.in/api?id=pius11&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pius11&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=DC143C&line=DC143C&point=FF0000&area_color=DC143C&area=true&hide_border=true&title_color=DC143C" alt="Contribution Graph" />
+</p>
 
 ## My Waifu
 ![image](img/sticker_13.png)
